@@ -95,7 +95,7 @@ div#menu ul ul {
     position: absolute;
     top: 38px;
     left: -999em;
-    width: 213px;
+    width: 233px;
     padding: 5px 0 0 0;
     background: rgb(45,45,45);
     margin-top:1px;
@@ -126,7 +126,7 @@ div#menu ul ul li {
 /* menu::level3 */
 div#menu ul ul ul {
     padding: 0;
-    margin: -38px 0 0 213px !important;
+    margin: -38px 0 0 233px !important;
     margin-left:172px;
 }
 
